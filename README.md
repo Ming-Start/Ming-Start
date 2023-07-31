@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python ，C/C++
 - 🌱 I’m currently learning Python ，C/C++
 - 💞️ I’m looking to collaborate on upgrade myself
-- 📫 How to reach me ： fengchengxiaosheng@163.com
+- 📫 How to reach me ： hyma6858@foxmail.com
 
 <!---
 Ming-Start/Ming-Start is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
